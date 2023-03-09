@@ -1,5 +1,2 @@
 !/bin/bash
-# This script displays the contents of the current directory, including hidden files, in long format
-
 ls -la
-
